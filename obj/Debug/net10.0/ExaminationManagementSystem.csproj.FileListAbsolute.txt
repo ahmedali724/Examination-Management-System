@@ -1,0 +1,14 @@
+D:\Study\ITI\12- C#\Day07\ExaminationManagementSystem\ExaminationManagementSystem\bin\Debug\net10.0\ExaminationManagementSystem.exe
+D:\Study\ITI\12- C#\Day07\ExaminationManagementSystem\ExaminationManagementSystem\bin\Debug\net10.0\ExaminationManagementSystem.deps.json
+D:\Study\ITI\12- C#\Day07\ExaminationManagementSystem\ExaminationManagementSystem\bin\Debug\net10.0\ExaminationManagementSystem.runtimeconfig.json
+D:\Study\ITI\12- C#\Day07\ExaminationManagementSystem\ExaminationManagementSystem\bin\Debug\net10.0\ExaminationManagementSystem.dll
+D:\Study\ITI\12- C#\Day07\ExaminationManagementSystem\ExaminationManagementSystem\bin\Debug\net10.0\ExaminationManagementSystem.pdb
+D:\Study\ITI\12- C#\Day07\ExaminationManagementSystem\ExaminationManagementSystem\obj\Debug\net10.0\ExaminationManagementSystem.GeneratedMSBuildEditorConfig.editorconfig
+D:\Study\ITI\12- C#\Day07\ExaminationManagementSystem\ExaminationManagementSystem\obj\Debug\net10.0\ExaminationManagementSystem.AssemblyInfoInputs.cache
+D:\Study\ITI\12- C#\Day07\ExaminationManagementSystem\ExaminationManagementSystem\obj\Debug\net10.0\ExaminationManagementSystem.AssemblyInfo.cs
+D:\Study\ITI\12- C#\Day07\ExaminationManagementSystem\ExaminationManagementSystem\obj\Debug\net10.0\ExaminationManagementSystem.csproj.CoreCompileInputs.cache
+D:\Study\ITI\12- C#\Day07\ExaminationManagementSystem\ExaminationManagementSystem\obj\Debug\net10.0\ExaminationManagementSystem.dll
+D:\Study\ITI\12- C#\Day07\ExaminationManagementSystem\ExaminationManagementSystem\obj\Debug\net10.0\refint\ExaminationManagementSystem.dll
+D:\Study\ITI\12- C#\Day07\ExaminationManagementSystem\ExaminationManagementSystem\obj\Debug\net10.0\ExaminationManagementSystem.pdb
+D:\Study\ITI\12- C#\Day07\ExaminationManagementSystem\ExaminationManagementSystem\obj\Debug\net10.0\ExaminationManagementSystem.genruntimeconfig.cache
+D:\Study\ITI\12- C#\Day07\ExaminationManagementSystem\ExaminationManagementSystem\obj\Debug\net10.0\ref\ExaminationManagementSystem.dll

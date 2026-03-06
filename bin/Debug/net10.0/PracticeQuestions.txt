@@ -1,0 +1,203 @@
+===================================
+Header: Q1
+Body:   C# is an OOP language
+Marks:  5
+Correct Answer(s):
+  - ID: 1 | True
+===================================
+===================================
+Header: Q2
+Body:   Which is a value type?
+Marks:  5
+Correct Answer(s):
+  - ID: 1 | int
+===================================
+===================================
+Header: Q3
+Body:   Select OOP concepts
+Marks:  10
+Correct Answer(s):
+  - ID: 1 | Encapsulation
+  - ID: 2 | Inheritance
+===================================
+===================================
+Header: Q4
+Body:   C# supports inheritance
+Marks:  5
+Correct Answer(s):
+  - ID: 1 | True
+===================================
+===================================
+Header: Q1
+Body:   C# is an OOP language
+Marks:  5
+Correct Answer(s):
+  - ID: 1 | True
+===================================
+===================================
+Header: Q2
+Body:   Which is a value type?
+Marks:  5
+Correct Answer(s):
+  - ID: 1 | int
+===================================
+===================================
+Header: Q3
+Body:   Select OOP concepts
+Marks:  10
+Correct Answer(s):
+  - ID: 1 | Encapsulation
+  - ID: 2 | Inheritance
+===================================
+===================================
+Header: Q4
+Body:   C# supports inheritance
+Marks:  5
+Correct Answer(s):
+  - ID: 1 | True
+===================================
+===================================
+Header: Q1
+Body:   C# is an OOP language
+Marks:  5
+Correct Answer(s):
+  - ID: 1 | True
+===================================
+===================================
+Header: Q2
+Body:   Which is a value type?
+Marks:  5
+Correct Answer(s):
+  - ID: 1 | int
+===================================
+===================================
+Header: Q3
+Body:   Select OOP concepts
+Marks:  10
+Correct Answer(s):
+  - ID: 1 | Encapsulation
+  - ID: 2 | Inheritance
+===================================
+===================================
+Header: Q4
+Body:   C# supports inheritance
+Marks:  5
+Correct Answer(s):
+  - ID: 1 | True
+===================================
+===================================
+Header: Q1
+Body:   C# is an OOP language
+Marks:  5
+Correct Answer(s):
+  - ID: 1 | True
+===================================
+===================================
+Header: Q2
+Body:   Which is a value type?
+Marks:  5
+Correct Answer(s):
+  - ID: 1 | int
+===================================
+===================================
+Header: Q3
+Body:   Select OOP concepts
+Marks:  10
+Correct Answer(s):
+  - ID: 1 | Encapsulation
+  - ID: 2 | Inheritance
+===================================
+===================================
+Header: Q4
+Body:   C# supports inheritance
+Marks:  5
+Correct Answer(s):
+  - ID: 1 | True
+===================================
+===================================
+Header: Q1
+Body:   C# is an OOP language
+Marks:  5
+Correct Answer(s):
+  - ID: 1 | True
+===================================
+===================================
+Header: Q2
+Body:   Which is a value type?
+Marks:  5
+Correct Answer(s):
+  - ID: 1 | int
+===================================
+===================================
+Header: Q3
+Body:   Select OOP concepts
+Marks:  10
+Correct Answer(s):
+  - ID: 1 | Encapsulation
+  - ID: 2 | Inheritance
+===================================
+===================================
+Header: Q4
+Body:   C# supports inheritance
+Marks:  5
+Correct Answer(s):
+  - ID: 1 | True
+===================================
+===================================
+Header: Q1
+Body:   C# is an OOP language
+Marks:  5
+Correct Answer(s):
+  - ID: 1 | True
+===================================
+===================================
+Header: Q2
+Body:   Which is a value type?
+Marks:  5
+Correct Answer(s):
+  - ID: 1 | int
+===================================
+===================================
+Header: Q3
+Body:   Select OOP concepts
+Marks:  10
+Correct Answer(s):
+  - ID: 1 | Encapsulation
+  - ID: 2 | Inheritance
+===================================
+===================================
+Header: Q4
+Body:   C# supports inheritance
+Marks:  5
+Correct Answer(s):
+  - ID: 1 | True
+===================================
+===================================
+Header: Q1
+Body:   C# is an OOP language
+Marks:  5
+Correct Answer(s):
+  - ID: 1 | True
+===================================
+===================================
+Header: Q2
+Body:   Which is a value type?
+Marks:  5
+Correct Answer(s):
+  - ID: 1 | int
+===================================
+===================================
+Header: Q3
+Body:   Select OOP concepts
+Marks:  10
+Correct Answer(s):
+  - ID: 1 | Encapsulation
+  - ID: 2 | Inheritance
+===================================
+===================================
+Header: Q4
+Body:   C# supports inheritance
+Marks:  5
+Correct Answer(s):
+  - ID: 1 | True
+===================================
